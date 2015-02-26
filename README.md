@@ -1,3 +1,8 @@
+# Multi Item Layout File Support
+you can find it in base-adapter-helper-sample-new . 
+
+![Multi Item Layout File Support](https://github.com/hongyangAndroid/base-adapter-helper/blob/master/imgs/snapshot.png)
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-base--adapter--helper-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1331)
 
 [![Overview](https://raw.github.com/JoanZapata/base-adapter-helper/master/header.png)](https://github.com/JoanZapata/base-adapter-helper/blob/5465bea778f098a059390c441416c501e599cc10/base-adapter-helper-sample/src/main/java/com/joanzapata/android/twitter/TwitterActivity.java#L44-L57)
