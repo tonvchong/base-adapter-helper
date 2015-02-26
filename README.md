@@ -1,7 +1,10 @@
 # Multi Item Layout File Support
-you can find it in base-adapter-helper-sample-new . 
+
+you can find sample in base-adapter-helper-sample-new.**[detail](https://github.com/hongyangAndroid/base-adapter-helper/blob/master/base-adapter-helper.md)**.
 
 ![Multi Item Layout File Support](https://github.com/hongyangAndroid/base-adapter-helper/blob/master/imgs/snapshot.png)
+
+# Intro
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-base--adapter--helper-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1331)
 
